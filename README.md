@@ -3,8 +3,8 @@ assign 2
 
 
 
-Sub Stock_Data_calculation():
 
+Sub Stock_Data_calculation():
     'loop through all worksheets in the workbook
       For Each ws In Worksheets
 
